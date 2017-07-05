@@ -9,7 +9,7 @@
 
 ### Связь 
 Канал оповещений в телеграмме: [mmcs_data_science](https://t.me/mmcs_data_sience).  
-Чат для общения в телеграмме: [mmcs_ds_public](https://t.me/joinchat/B2elew6xGMa_pMFwyeCgPw).
+Чат для общения в телеграмме: [mmcs_ds_public](https://t.me/joinchat/B2ele0Hk6J7pu0JQw3UFYw).
 
 ### Базовые знания
 Хорошее представление о необходимых знаниях дает [Data Science roadmap](https://goo.gl/RB1h3h). Мы предполагаем, что на семинар приходят люди уже приложившие какие-то минимальные усилия на изучение основ. Приведем список того, что желательно знать.
