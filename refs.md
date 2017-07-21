@@ -1,6 +1,5 @@
 # Полезные ссылки
 
-----
 ## Обучающие курсы
 
 * [Введение в машинное обучение](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie). Курс Воронцова на Coursera.
@@ -9,18 +8,15 @@
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/). Один из самых популярных курсов по нейронным сетям. Перейдя по ссылке, вы помогаете авторам обучать нейронную сеть прямо в вашем браузере!
 * [Machine Learning](https://ru.coursera.org/learn/machine-learning). Один из самых лучших преподавателей ML, читает курс на Coursera.
 
-----
 ## Общение
 * [ODS чат](https://opendatascience.slack.com/). Слак-чат сообщества Open Data Science.
 * [Deep learning](https://vk.com/deeplearning). Группа VK, посвященная теме DL.
 
-----
 ## Новости
 * [Model overfit](https://vk.com/modeloverfit).
  Группа VK, посвященная новостям DS.
 * [Semantic scholar](https://www.semanticscholar.org/). Сайт посвящен кратким изложениям недавно опубликованных статей.
 
-----
 ## Разное
 * [Тренировки ML](https://www.youtube.com/channel/UCeq6ZIlvC9SVsfhfKnSvM9w). YouTube-канал, на котором можно найти видео с тренировками в Москве.
 * [Анализ малых данных](https://alexanderdyakonov.wordpress.com/). Блог Александра Дьяконова, в прошлом победителя соревнований Kaggle, а сейчас преподавателя ВШЭ.
