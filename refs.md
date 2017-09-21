@@ -6,7 +6,8 @@
 * [Машинное обучение и анализ данных](https://ru.coursera.org/specializations/machine-learning-data-analysis). Специализация из 6 курсов на Coursera.
 * [Открытый курс машинного обучения](https://habrahabr.ru/company/ods/blog/322626/). Проект сообщества Open Data Science.
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/). Один из самых популярных курсов по нейронным сетям. Перейдя по ссылке, вы помогаете авторам обучать нейронную сеть прямо в вашем браузере!
-* [Machine Learning](https://ru.coursera.org/learn/machine-learning). Один из самых лучших преподавателей ML, читает курс на Coursera.
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning). Специализация по Deep Learning от Эндрю Ына - одного из самых известных преподавателей в этой области.
+* [Machine Learning](https://ru.coursera.org/learn/machine-learning). Один из самых лучших преподавателей ML, читает курс на Coursera. Вот [здесь](https://yadi.sk/d/V9p7E6uAFjHcD) отдельно лежат лекции.
 
 ## Общение
 * [ODS чат](https://opendatascience.slack.com/). Слак-чат сообщества Open Data Science.
